@@ -5,3 +5,10 @@
 /UnitTestingUsingXunit/DemoLibrary/bin
 /UnitTestingUsingXunit/WinFormUI/obj
 /UnitTestingUsingXunit/WinFormUI/bin
+/MockingUsingMoq/ConsoleUI/obj
+/MockingUsingMoq/ConsoleUI/bin
+/MockingUsingMoq/DemoLibrary/bin
+/MockingUsingMoq/DemoLibrary/obj
+/MockingUsingMoq/MoqDemoTests/obj
+/MockingUsingMoq/MoqDemoTests/bin
+/MockingUsingMoq/packages
